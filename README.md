@@ -23,13 +23,13 @@ This project explores academic performance trends using Python and data visualiz
 ## 📷 Sample Visualizations
 
 ### 📦 Average Score by Parental Education  
-![Boxplot](images/boxplot_scores.png)
+![Boxplot](boxplot_scores.png)
 
 ### 🔥 Correlation Heatmap  
-![Heatmap](images/heatmap_corr.png)
+![Heatmap](heatmap_corr.png)
 
 ### 📘 Test Preparation Effect  
-![Barplot](images/testprep_bar.png)
+![Barplot](testprep_bar.png)
 
 ## 📌 How to Run
 
